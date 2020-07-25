@@ -1,0 +1,10 @@
+image
+ipdb
+ipython
+numpy
+Pillow
+requests
+pyautogui
+opencv-python
+line_profiler
+gprof2dot
